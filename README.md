@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaybee18
+- 👋 Hi, I’m Jan Bessler
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning about reinforcement learning
 - 💞️ I’m looking to collaborate on nothing

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jan Bessler
 - 👀 I’m interested in programming
 - 🌱 I’m currently [regretting] learning about reinforcement learning
-- 💞️ I’m looking to collaborate on nothing
 
 <!---
 Jaybee18/Jaybee18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

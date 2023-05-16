@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan Bessler
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and music
 - 🌱 I’m currently [regretting] learning about reinforcement learning
 
 <!---
